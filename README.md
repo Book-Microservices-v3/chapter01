@@ -1,4 +1,4 @@
-# Learn Microservices with SpringBoot 3 (3rd edition) - Chapter 1
+# Learn Microservices with SpringBoot 3 (3rd edition) - Chapter 2
 This repository contains the source code of the practical use case described in the book Learn Microservices with Spring Boot 3 (3rd Edition).
 The book follows a pragmatic approach to building a Microservice Architecture. You start with a small monolith and examine the pros and cons that come with a move to microservices.
 
