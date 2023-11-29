@@ -17,7 +17,7 @@ You'll face all the challenges of designing and implementing a distributed syste
 You can buy the book online from these stores:
 * [Apress](https://link.springer.com/book/10.1007/978-1-4842-9757-5)
 * [Amazon](https://www.amazon.com/Learn-Microservices-Spring-Boot-Containerization/dp/1484297563)
-and other online stores
+and other online stores.
 
 # Source Code
 * [Listing 2-1. The Challenge Class in Plain Java](https://github.com/Book-Microservices-v3/chapter02a/blob/main/WithoutLombok/Challenge.java)
