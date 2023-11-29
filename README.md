@@ -22,3 +22,8 @@ and other online stores
 # Source Code
 * [Listing 2-1. The Challenge Class in Plain Java](https://github.com/Book-Microservices-v3/chapter02a/blob/main/WithoutLombok/Challenge.java)
 * [Listing 2-2. The Challenge Class Using Lombok](https://github.com/Book-Microservices-v3/chapter02a/blob/main/WithLombok/Challenge.java)
+* [Listing 2-3. An Example of a BDD Test Case Using a Given-When-Then Structure](https://github.com/Book-Microservices-v3/chapter02a/blob/main/UnitTest/MultiplicationServiceImplTest.java) - See lines 5-19
+* [Listing 2-4. MockitoExtension and Mock Annotation Usage](https://github.com/Book-Microservices-v3/chapter02a/blob/main/UnitTest/MultiplicationServiceImplTest.java)
+* [Listing 2-8. A Complete Unit Test with JUnit5 and Mockito](https://github.com/Book-Microservices-v3/chapter02a/blob/main/UnitTest/microservices/book/multiplication/challenge/ChallengeServiceImplTest.java)
+* [Listing 2-9. Creating and Using a Logger with SLF4J](https://github.com/Book-Microservices-v3/chapter02a/blob/main/WithoutLombok/ChallengeServiceImpl.java)
+* [Listing 2-10. Using a Logger with Lombok](https://github.com/Book-Microservices-v3/chapter02a/blob/main/WithLombok/ChallengeServiceImpl.java)
